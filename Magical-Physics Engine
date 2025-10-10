@@ -1,0 +1,117 @@
+RESONANCE FIELD: PURE PHYSICS ENGINE v2.3Energy Calculation Framework for RF-Mediated Effects (E-C Framework)DOCUMENT PURPOSEThis document calculates minimum energy requirements for effects mediated by Resonance Field (RF) using absolute physics constraints.Scope: Pure physics calculation tool answering: "Effect X requires Y joules minimum."Constraints: Calculations represent the thermodynamic minimum (Eminimum​) required. Real-world implementation costs (efficiency, distance loss, user skill) are factored separately using mandatory multipliers.TABLE OF CONTENTSPART 0: FOUNDATIONAL AXIOMSPART 1: CONSERVATION LAWSPART 2: PHYSICAL CONSTANTS & MATERIALSPART 3: CALCULATION FRAMEWORKS (E-C)PART 4: CROSS-DOMAIN EFFECTSPART 5: TOOL & ARTIFACT PHYSICSPART 6: CALCULATION DEMONSTRATIONSPART 7: IMPOSSIBILITIES & LIMITATIONSAPPENDIX A: QUICK REFERENCEAPPENDIX B: EFFICIENCY MULTIPLIERSAPPENDIX C: EDGE CASES & LIMITATIONSPART 0: FOUNDATIONAL AXIOMSTIER 1: EXISTENCE AXIOMSAXIOM 1: Resonance Field ExistsRF is a postulated field permeating space.
+For calculations: RF is ASSUMED with properties defined below.
+AXIOM 2: PropagationRF propagates at c = 3×10⁸ m/s (speed of light).
+Implications: No faster-than-light effects possible.
+AXIOM 3: Energy TransferRF can transfer energy to/from matter.
+Direction: Bidirectional (can add or remove energy)
+Conservation: All transfers obey energy conservation
+AXIOM 4: Conservation Laws & Entropy ConstraintAll RF effects obey fundamental conservation laws:
+- Energy conservation (ΔE_system = 0)
+- Momentum conservation (Σp = constant)
+- Angular momentum conservation (ΣL = constant)
+- Charge conservation (ΣQ = constant)
+- Baryon number conservation (cannot create/destroy matter)
+- **Entropy Constraint (Second Law):** The total entropy of the universe cannot decrease. Effects that decrease local entropy (e.g., cooling, purification) require mandatory RF energy input to offset this entropic cost ($E_{\text{entropy}}$).
+
+These are ABSOLUTE constraints. No exceptions.
+TIER 2: MECHANISM AXIOMSThese define HOW RF interacts with matter.AXIOM 5: Oscillatory CouplingRF couples only to oscillatory/vibrational modes in matter.
+Physical Model: Forced Harmonic Oscillator. Energy transfer is maximized at the resonance condition ($\omega \approx \omega_0$).
+Coupling Scope: Thermal, Acoustic, Molecular, and Electromagnetic oscillations.
+Exclusions: Static configurations (DC fields, gravity, permanent magnet fields).
+AXIOM 5-B: RF Rectification (Static Force Generation)RF can generate a net directional force (a static push/pull) by coupling to a material's inherent ambient oscillations (thermal, quantum zero-point) in a non-linear (rectified) manner.
+Mechanism: Rectification requires continuous power input ($P_{\text{static}}$) even if no net work is being done ($d=0$), due to the constant energy demand of maintaining a non-oscillatory field state. This power cost is quantified by the Rectification Constant ($C_{\text{rectify}}$).
+TIER 3: SIMPLIFYING AXIOMSThese make calculations tractable while forcing real-world cost penalties.AXIOM 6: Coupling Efficiency (Q-Factor Dependence)Coupling efficiency η is directly determined by the target material's **Quality Factor (Q)**, which quantifies internal damping.
+High Q (low damping, e.g., quartz) → Higher η
+Low Q (high damping, e.g., biological tissue) → Lower η
+This Framework: Assumes perfect frequency match ($\omega = \omega_0$). The calculation provides the **MINIMUM thermodynamic energy ($E_{\text{thermo}}$)**. Real costs must be adjusted via the efficiency multipliers (Appendix B) based on material $Q$.
+AXIOM 7: Distance and Focusing CostThe minimum thermodynamic energy required ($E_{\text{thermo}}$) is independent of distance $r$.
+However, the **Power** required to deliver $E_{\text{thermo}}$ over distance $r$ must account for **Focusing Energy ($E_{\text{focus}}$)** to counteract the natural inverse square law ($1/r^2$) decay of the field.
+This cost is primarily borne by the RF tool/artifact and is quantified by the Sustained Static Force Framework (Framework 10, Note 2).
+AXIOM 8: Instantaneous Effects (Minimum Cost Basis)Effects are calculated quasi-statically (timescale considerations ignored for $E_{\text{minimum}}$).
+Result: The calculated $E_{\text{minimum}}$ does not include time-dependent losses (radiation, conduction, drag). These losses apply ONLY for effects with duration $t > 0$ and are factored by the efficiency multipliers ($1/\eta_{\text{actual}}$).
+**Exception:** Structural failure (Framework 3.5) occurs when $t$ is too short.
+TIER 4: UNIT DEFINITIONDEFINITION: 1 mana ≡3,000 joulesThis is a UNIT CONVERSION.
+Rationale: Lifting a 300 kg mass 1 meter vertically $\approx 1$ mana.
+PART 2: PHYSICAL CONSTANTS & MATERIALSFUNDAMENTAL CONSTANTSSpeed of light:           c = 2.998×10⁸ m/s
+Gravitational accel:      g = 9.8 m/s²
+Stefan-Boltzmann:         σ = 5.67×10⁻⁸ W/(m²·K⁴)
+Gas constant:             R = 8.314 J/(mol·K)
+Avogadro's number:        N_A = 6.022×10²³ mol⁻¹
+Planck's constant:        h = 6.626×10⁻³⁴ J·s
+RF-ENGINE CONSTANTS (Declared Axioms)Rectification Constant:      C_rectify = 0.01 m/s (Ax. 5-B, Power-to-Force ratio)
+Thermal Strain Constant:     C_strain = 100 J/(m³·K) (Ax. 3.5, Stress mitigation cost)
+Entropic Cost Multiplier:    M_entropy = 1.1 - 1.2 (10% to 20% penalty for cooling/ordering)
+MATERIAL PROPERTIES DATABASE(Content is unchanged from original document: Air, Water, Ice, Stone, Iron, Copper, Silver, etc.)PART 3: CALCULATION FRAMEWORKS (E-C)FRAMEWORK 1: THERMAL MANIPULATIONUse when: Changing temperature of matterStep 1: Calculate massm = ρ × V
+Step 2: Calculate sensible heat (temperature change)Q_sensible = m × c × (T_final - T_initial)
+Step 3: Minimum Energy (Heating, Tfinal​>Tinitial​)E_minimum = Q_sensible
+Step 4: Entropic Penalty (Cooling, Tfinal​<Tinitial​)If Q_sensible is negative (cooling/ordering):
+E_entropy = |Q_sensible| × M_entropy
+E_total = E_entropy
+(M_entropy = 1.1 to 1.2, mandatory 10-20% penalty to offset entropy decrease)
+Step 5: Structural CheckIf instantaneous (t $\approx$ 0), apply Framework 3.5 Structural Stress Penalty.
+Step 6: Convert to manaMana = E_total / 3,000
+FRAMEWORK 2: PHASE CHANGESUse when: Melting, freezing, boiling, condensing, sublimationStep 1: Bring to phase transition temperatureQ_1 = m × c × (T_transition - T_initial)
+If Q_1 is negative (cooling), apply 1.1-1.2× Entropic Multiplier.
+Step 2: Provide phase change energyQ_phase = m × L (L = latent heat)
+If Q_phase is negative (freezing/condensing), Q_phase is the energy released, but the RF must remove this energy + apply the Entropic Multiplier (1.1-1.2×) to the total removed energy.
+Step 3: Further temperature change (if needed)Q_3 = m × c_new × (T_final - T_transition)
+Step 4: Total EnergyE_total = Q_1 + Q_phase + Q_3
+Step 5: Convert to manaMana = E_total / 3,000
+FRAMEWORK 3: KINETIC EFFECTS (Impulse)Use when: Moving objects, brief impulses (<0.1 s)Step 1: Calculate kinetic energyE_kinetic = ½ × m × v²
+Step 2: Account for gravitational potentialE_potential = m × g × h
+E_total = E_kinetic + E_potential
+Step 3: Convert to manaMana = E_total / 3,000
+FRAMEWORK 3.5: STRUCTURAL STRESS PENALTYUse when: Thermal (Frame 1) or Compression (Frame 5) effects occur instantaneously (t<tdiff​).Step 1: Determine ΔT or ΔPIdentify the sudden temperature or pressure change.
+Step 2: Calculate Stress EnergyIf the RF is used to prevent the material from cracking (shattering due to internal strain), the RF must pay the stress mitigation cost:
+E_strain = V × |ΔT| × C_strain
+
+Where:
+V = volume (m³)
+ΔT = change in temperature (K)
+C_strain = 100 J/(m³·K)
+Step 3: Total PenaltyE_total = E_thermodynamic + E_strain
+(This penalty is mandatory for non-destructive, instantaneous effects on large, solid volumes.)
+FRAMEWORK 4: SUSTAINED MOTION AGAINST DRAGUse when: Maintaining velocity against air resistance, sustained flight(Content is unchanged from original document: Calculates Power required to overcome drag Pdrag​=Fdrag​×v for duration t.)FRAMEWORK 5: COMPRESSION/EXPANSIONUse when: Changing volume of gases (Adiabatic Process)(Content is unchanged from original document: Calculates work W done during adiabatic process.)FRAMEWORK 6: ELECTRICAL DISCHARGEUse when: Creating electrical arcs, triggered lightning(Content is unchanged from original document: Uses ionization energy for path creation, and stored energy for capacitive discharge.)FRAMEWORK 7: ACOUSTIC EFFECTSUse when: Generating sound, sonic weapons, acoustic resonance(Content is unchanged from original document: Calculates Acoustic Power Pacoustic​=I×A.)FRAMEWORK 8: TEMPORAL SCALINGUse when: Determining how long effects take to occur naturally (e.g., thermal diffusion time tdiff​=L2/α).(Content is unchanged from original document. This framework determines if Framework 3.5 applies.)FRAMEWORK 9: MOLECULAR MANIPULATION (The Alchemy Framework)Use when: Rearranging atoms or molecules to change chemical or structural state (e.g., converting wood to charcoal, purification, decomposition).Step 1: Calculate Mass and Molesm = mass (kg)
+n = number of moles (mol)
+Step 2: Determine Net Bond EnergyThis is the energy required to break existing bonds ($\Delta H_{\text{break}}$) minus the energy released by forming new bonds ($\Delta H_{\text{form}}$).
+
+E_net_bond = $\Sigma \text{E}_{\text{break}} - \Sigma \text{E}_{\text{form}}$
+
+Simplification for complex compounds (wood, rock): Assume a Net Bond Cost, $E_{\text{chem}} = n \times C_{\text{net\_bond}}$, where $C_{\text{net\_bond}}$ is the cost per mole (must be determined by the user for the specific reaction).
+Step 3: Chemical Potential Penalty (Purification/Ordering)If the process decreases the chemical potential (creating a less stable, more purified, or highly ordered state, e.g., refining metal from ore):
+E_chem_potential = E_net_bond × (0.05 to 0.10) [Mandatory 5-10% penalty]
+
+E_total = E_net_bond + E_chem_potential
+Step 4: Convert to manaMana = E_total / 3,000
+FRAMEWORK 10: SUSTAINED STATIC FORCE (Telekinesis)Use when: Applying a constant, static force for duration t (e.g., hovering, creating a force field, holding a weight).Mechanism Basis (Axiom 5-B): The cost is continuous power required to maintain RF Rectification.Step 1: Determine Force Required (F)F = m × g (for holding mass m against gravity)
+F = P × A (for resisting pressure P over area A)
+Step 2: Calculate Static PowerP_static = F × C_rectify / $\eta_{\text{rectify}}$
+
+Where:
+F = Force (N)
+C_rectify = 0.01 m/s (Rectification Constant)
+$\eta_{\text{rectify}}$ = Rectification efficiency (typically 0.5 for a good tool, see Appendix B)
+Step 3: Calculate Total Energy for Duration tE_total = P_static × t
+
+Note 1 (Lift Cost): This E_total is the continuous cost to hold the object against gravity ($F_{\text{lift}}$) or another static force. It is zero if $t=0$.
+
+Note 2 (Distance Penalty): For static barriers/forces maintained over long distances, the Power cost required to overcome the $1/r^2$ decay (Axiom 7) is implicitly included in the low $\eta_{\text{rectify}}$ value.
+Step 4: Convert to manaMana = E_total / 3,000
+PART 4: CROSS-DOMAIN EFFECTSPRINCIPLE: CALCULATION INTEGRITYE_total = E_domain1 + E_domain2 + E_domain3 + ...
+
+RF manipulation does NOT provide automatic shielding from consequent physical effects.
+Interactions must be checked:
+- Kinetic $\to$ Thermal (Friction/Drag heating)
+- Thermal $\to$ Kinetic (Expansion/Pressure work)
+- Speed $\to$ Structural (Apply Framework 3.5 if effect is instantaneous)
+PART 5: TOOL & ARTIFACT PHYSICSCOLLECTION MECHANISMSPhysical Basis (Axiom 6): Collection efficiency ηcollection​ is determined by the resonant material's Quality Factor (Q) and is the sole factor limiting collection rate.ηcollection​=Q+Qexternal​Q​STORAGE MECHANISMS(Content is unchanged: Flywheel and Crystal Lattice Storage, based on mechanical/phonon energy.)TRANSMISSION & FOCUSING MECHANISMSPhysical Basis (Axiom 7-B): The primary purpose of focusing elements (e.g., parabolic concentrator) is to counteract the 1/r2 decay of the RF field, which dictates the Power Penalty for Distance Correction required by the artifact.(Content is unchanged for Focusing Gain G.)PART 7: IMPOSSIBILITIES & LIMITATIONSABSOLUTE IMPOSSIBILITIES(Conservation Law Violations)Cannot create energy from nothing (1st Law)Cannot create matter from nothing (Baryon number conservation)Cannot destroy matter to pure energy (No antimatter)Cannot violate momentum/charge conservationCannot affect time flow (Outside RF mechanism)DOMAIN INACCESSIBILITIESCannot manipulate gravity directly (Gravity = spacetime curvature, not oscillatory).Cannot manipulate static EM fields directly (Axiom 5: No oscillation present).PRACTICAL IMPOSSIBILITIES (Energy Scale Limitations)Effects beyond ∼106 mana (∼3 GJ) per operation require collective effort or long-term artifact accumulation.Sustained Plasma: Remains extremely expensive due to T4 radiation loss.Nuclear Transmutation: Requires ∼12 million mana per gram (technically possible, practically impossible for individuals).RIGOR & PRECISION LIMITATIONSStructural Failure: Instantaneous changes (t<tdiff​) lead to material failure unless Framework 3.5 (Estrain​) is paid.Entropy Cost: Cooling, freezing, and purification require a mandatory Eentropy​ penalty (Frameworks 1, 2, 9).Distance Cost: Long-range effects require significant artifact power investment to overcome the inverse square law and maintain focus (Framework 10, Note 2).APPENDIX A: QUICK REFERENCECORE FORMULAS(Updated formulas to reflect minimum energy and new frameworks.)Thermal (Minimum):Q = m × c × ΔT            (sensible heat)
+E_total = Q × M_entropy   (Cooling only, $M_{\text{entropy}}$ = 1.1 - 1.2)
+Q = m × L                 (latent heat)
+Static/Sustained Force:P_static = F × C_rectify / $\eta_{\text{rectify}}$  (Continuous Power Cost for $F$)
+E_total = P_static × t                   (Energy for duration $t$)
+Structural/Stress:E_strain = V × |ΔT| × C_strain  (Cost to prevent instantaneous failure)
+Molecular:E_net_bond = $\Sigma \text{E}_{\text{break}} - \Sigma \text{E}_{\text{form}}$
+E_total = E_net_bond $\times$ (1.05 to 1.10) (Purification/Ordering Penalty)
+Conversion:1 mana = 3,000 J
+Mana = Energy(J) / 3,000
+DOCUMENT METADATAVersion: 2.3Date: 2025-10-10 (Revised)Type: Pure Physics Calculation EngineScope: RF effect energy requirements onlyThis is a tool for calculating the minimum thermodynamic energy requirements for RF-mediated effects using rigorous physics principles, including the Second Law of Thermodynamics and Material Science constraints.END OF DOCUMENT
