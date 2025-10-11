@@ -1,0 +1,106 @@
+MONSTER ECOLOGY & COMBAT PROFILES
+Required Energy Investment (R.E.I.) Benchmarks (R-S Ranks)
+R-RANK BENCHMARKS: ROOKIE THRESHOLD (R.E.I.=5 mana)
+
+R-Rank threats are designed to test the basic physical resilience and recovery of the untrained human, using only minimal Mana expenditure.
+1. Flicker Beetle (Individual Apex)
+
+|
+
+| Metric | Value | Challenge & Countermeasure |
+| R.E.I. | 5 mana (15,000 J) | Minimal resilience. Dies from a single focused blow. |
+| Primary Threat | RF Disruption: Emits a high-frequency RF pulse (near 1015 Hz) when threatened. | Sensing Test: Pulse causes sensory overload, dizziness, and mild nausea (testing the Dermal RF Receptor Layer). Countered by basic speed and shielding the skin/head. |
+| Tactics | Physical Kill: Target is easily crushed. Use heavy boots, a club, or a simple low-cost Kinetic Impulse (∼0.5 mana) to shatter the carapace. |  |
+2. Wild Dogs (Pack Threat)
+
+| Metric | Value | Challenge & Countermeasure |
+| R.E.I. (Collective) | 5 mana (10 members) | Low Resilience: 10 dogs×0.5 mana/resilience. |
+| Primary Threat | Kinetic Overload: Overwhelming numbers threaten to exhaust the physical recovery of one individual. | Crowd Control: Forces the human team to utilize basic Kinetic Impulses (Framework 3) for defense, learning to prioritize targets based on momentum. |
+| Tactics | Area Denial: Use low-cost Thermal Blasts (∼5 mana) focused on the ground to create heat zones, forcing the dogs to scatter due to pain before committing resources to killing them. |  |
+E-RANK BENCHMARKS: ENTRY THRESHOLD (R.E.I.=25 mana)
+
+E-Rank threats require the full commitment of one Adventurer's Mana pool for a decisive strike, testing the human capacity for focused energy delivery.
+3. Iron Tusk Boar (Individual Apex)
+
+| Metric | Value | Challenge & Countermeasure |
+| R.E.I. | 25 mana (75,000 J) | Mass and Resistance: Requires the full commitment of one Adventurer's Mana pool for a kill. |
+| Primary Threat | Blunt Force Inertia: Naturally absorbed ambient RF gives the Boar's hide resistance to blunt and simple cuts. | Energy Focus Test: Forces the human to use the RF to channel maximal effort into a single weapon (Zenith Kinetic infusion) or cast a Thermal Blast directly at the Boar's core. |
+| Tactics | Avoidance and Focus: Use agility to avoid the charge and hit the flanks/vulnerable joints where the hide is thinnest, concentrating 25 mana of damage into a single point. |  |
+4. Dire Wolf Pack (5 members)
+
+| Metric | Value | Challenge & Countermeasure |
+| R.E.I. (Collective) | 25 mana (75,000 J) | Resilience: 5 wolves×5 mana/resilience. |
+| Primary Threat | Coordinated Kinetic Attack: Alpha controls pack coherence, enabling synchronized kinetic strikes that are difficult to defend. | Coherence Break: Requires the Oracle Watch to project a low-cost, chaotic RF pattern to interfere with the pack's synchronization, isolating the Alpha for the kill. |
+| Tactics | Split Energy Management: Forces the team to manage their RF resources carefully—e.g., spending 5 mana on shields while the Controller commits 20 mana to eliminate the Alpha. |  |
+D-RANK BENCHMARKS: DEVELOPED THRESHOLD (R.E.I.=100 mana)
+
+D-Rank monsters are the first to require the full MAX output of one Adventurer's specialized RF capacity. These threats test the limits of the Complexity Ceiling.
+5. Mirthstone Golem (Individual Apex)
+
+| Metric | Value | Challenge & Countermeasure |
+| R.E.I. | 100 mana (300,000 J) | Structural Complexity: 1,000 kg mass of dense, RF-stabilized rock (Tier 2 complexity). |
+| Primary Threat | Massive Inertia: Mundane kinetic force is useless; the Golem must be destabilized at a molecular level to inflict damage. | Complexity Ceiling Test: Requires the Architect Controller to spend 100 mana to maintain the 10 liters molecular destabilization threshold long enough for the Zenith Breaker to land the final kinetic blow. |
+| Tactics | Precision Targeting: The breach must be achieved through Molecular Manipulation (Framework 9) targeting the Golem's stabilizing core, not by raw kinetic force. |  |
+6. Rock Scuttlers (Pack Threat)
+
+| Metric | Value | Challenge & Countermeasure |
+| R.E.I. (Collective) | 100 mana (300,000 J) | Collective Resilience: 20 members×5 mana/resilience. |
+| Primary Threat | Swarm and Speed: Small, highly aggressive reptiles that move with high speed, overwhelming single targets. | Area Denial Test: Forces the Architect to use Area Denial spells (Tier 1 Kinetic/Thermal) across the full 100 liters Complexity Ceiling to neutralize the threat volume simultaneously. |
+| Tactics | Maximize AoE Efficiency: Requires careful placement of one high-cost spell to neutralize the maximum number of targets, testing the Controller's throughput efficiency. |  |
+C-RANK BENCHMARKS: CALAMITY THRESHOLD (R.E.I.=400 mana)
+
+C-Rank monsters require the full, simultaneous expenditure of the entire party's base Mana pool to defeat.
+7. Lywrin (Individual Apex)
+
+(Note: Full details provided in the separate Lywrin Profile document)
+
+| Metric | Value | Challenge & Countermeasure |
+| R.E.I. | 400 mana (1,200,000 J) | Regeneration Cost: Armor self-repairs at 100 mana/per 15% repair. |
+| Primary Threat | Defensive Attrition: The Lywrin forces the team to commit 4×100 mana just to negate its armor repair capability. | Thermal Overload: Requires the Controller to execute a coordinated 400 mana Thermal Blast (Internal + AMA) targeted at the Lywrin's soft tissue to overcome the R.E.I. |
+| Tactics | Zenith Speed: The Lywrin's 150 m/s Swipe forces the Zenith Breaker to rely on 10 ms reaction time to survive and create the opening for the strike. |  |
+8. Feral Feralis Pack (Pack Threat)
+
+| Metric | Value | Challenge & Countermeasure |
+| R.E.I. (Collective) | 400 mana (1,200,000 J) | Resilience: 10 members×40 mana/resilience. |
+| Primary Threat | Sustained Coherence Breakdown: The Feralis maintain high internal RF fields, making them highly resistant to standard thermal/kinetic damage. | Sustained Molecular Disruption: Requires the Adamant Sustainer to commit 100 mana to a high-duration, low-amplitude anti-coherence field to soften the targets, while the Controller provides focused kinetic output. |
+| Tactics | Attrition and Focus: Forces the team to fight a war of attrition, winning by patiently overwhelming the collective resilience rather than a single decisive strike. |  |
+B-RANK BENCHMARKS: ELITE THRESHOLD (R.E.I.=1,000 mana)
+
+B-Rank monsters exceed the human biological soft cap, forcing the party to commit all available Ambient Mana Accumulator (AMA) reserves.
+9. Vex Weeper (Individual Apex)
+
+| Metric | Value | Challenge & Countermeasure |
+| R.E.I. | 1,000 mana (3,000,000 J) | Defensive Flaw: Requires 2,000 mana gross expenditure due to 50% RF Absorption. |
+| Primary Threat | Efficiency Drain: The Weeper's hide actively absorbs 50% of all incoming RF energy (spells/kinetic infusions). | Extreme Throughput Test: Forces the Controller to expend 3 to 4 AMA crystals in a highly coordinated strike, testing the limits of the Thermal Shunt Network. |
+| Tactics | Kinetic Bypass: The team must identify that raw Kinetic Impulse infusion suffers less absorption than elemental Thermal Blasts, forcing the Zenith to act as the primary damage source. |  |
+10. Elder Elemental Swarm (Pack Threat)
+
+| Metric | Value | Challenge & Countermeasure |
+| R.E.I. (Collective) | 1,000 mana (3,000,000 J) | Resilience: 4 Elementals×250 mana/resilience. |
+| Primary Threat | Multi-Target Coherence: Four distinct Elementals (Fire, Ice, Earth, Air), each requiring a specialized RF counter. | Multi-Domain Defense: Requires the Adamant Sustainer to maintain four simultaneous shields/spells, relying on their superior 55 units/hour recovery rate to manage the sustained RF load. |
+A-RANK BENCHMARKS: MASTER THRESHOLD (R.E.I.=4,000 mana)
+
+A-Rank requires commitment of ALL internal and external AMA reserves—a test of extreme efficiency and processing.
+11. Chronos Shade (Individual Apex)
+
+| Metric | Value | Challenge & Countermeasure |
+| R.E.I. | 4,000 mana (12,000,000 J) | Speed and Latency: The Shade operates with micro-displacements and acceleration near the limits of RF propagation. |
+| Primary Threat | Waveform Displacement: Constantly shifts its RF signature, fracturing any lock-on spell within seconds. | Kinetic Lock: Requires physical contact from the Zenith to stabilize the target's RF signature for the Controller to channel the 4000 mana R.E.I. |
+12. Ancient Construct Swarm (Pack Threat)
+
+| Metric | Value | Challenge & Countermeasure |
+| R.E.I. (Collective) | 4,000 mana (12,000,000 J) | Resilience: 5 Constructs×800 mana/resilience. |
+| Primary Threat | Complexity Ceiling MAX: Non-organic RF-stabilized cores (Tier 2/3 complexity) overload the neural system. | Coordinated Complexity Breach: Requires the Architect to pool the Complexity Ceilings of the entire party to track and destabilize all 5 RF signatures simultaneously before striking. |
+S-RANK BENCHMARKS: LEGENDARY THRESHOLD (R.E.I.=10,000 mana+)
+
+S-Rank threats require weeks of preparation and specialized artifacts. These are world-changing events.
+13. Lich of the Void (Individual Apex)
+
+| Metric | Value | Challenge & Countermeasure |
+| R.E.I. | 10,000 mana (30,000,000 J) | Artifact Control: Lich is weak, but controls an RF Artifact capable of absorbing 10,000 mana damage before failing. |
+| Primary Threat | Resource Exhaustion: Lich's defensive shield demands 100 AMA crystals worth of energy to neutralize. | Logistics: The fight is a race against the logistical capacity of the human kingdoms to supply the required energy expenditure. |
+14. The Fungal Hive (Pack Threat)
+
+| Metric | Value | Challenge & Countermeasure |
+| R.E.I. (Collective) | 10,000 mana (30,000,000 J) | Resilience: 100 Elementals×100 mana/resilience. |
+| Primary Threat | Distributed Consciousness: A fungal network controlling 100+ individual RF signatures over a square kilometer. | Area Denial MAX: Overwhelms the Oracle’s tracking capacity. Requires continuous, area-of-effect spells that meet the density requirements of 10,000 mana dispersed energy. |
