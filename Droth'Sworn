@@ -1,73 +1,51 @@
 DROTH'SWORN SPECIES PROFILE: THE SIMULATION INPUT
-Applied Physics and Genetic Engineering Protocol (V5.0)
+Applied Physics and Genetic Engineering Protocol (V5.1 - Material Stratification)
 
-This document defines the physical capabilities, specialized hardware, and operational constraints of the Droth'sworn, a post-space age species, for accurate simulation within the RF Physics Engine (v2.5).
+This document defines the physical capabilities, specialized hardware, and operational constraints of the Droth'sworn, based on their material resource hierarchy.
 PART 1: FOUNDATIONAL CAPACITY AND HARDWARE
 
-The Droth'sworn's power derives from their multi-material hybrid architecture, which bypasses all human biological limits.
-1.1 Inherent Biological Capacity (The Absolute Max)
+The full capacity is only achieved by the Apex Caste who receives the pure exotic materials. Lower castes are defined by their materials budget.
+1.1 Apex Caste Inherent Biological Capacity (The Absolute Max)
 
-The Droth'sworn capacity is constrained by the thermal limits of their exotic materials and the volume of their 58 kg distributed neural mass.
+This profile applies exclusively to the 10,000 core Apex Caste members who receive Carbyne and 58 kg of pure exotic neural mass.
 
 |
 
 | Constraint | Value | Physics Derivation |
 | Mana Capacity (EMAX​) | 130,000 mana | Derived from 58 kg neural mass and specialized 1,724 mana/kg conversion rate. |
-| Kinetic Reaction Time | 0.01 ms (10 microseconds) | Derived from Superconducting Pathways (signal v≈1,000,000 m/s) and Electroactive Polymers. |
-| Max Strength | ≈47 Tons Lift (300× human) | Derived from Carbyne Skeleton tensile strength and 100% molecular motor efficiency. |
-| Net Recovery Rate | 587 to 787 mana/hour | Governed by BMR income and low Thermal Shunt RF tax (13 mana/hour mandatory drain). |
-1.2 Complexity Ceiling (The Processing Limit)
+| Max Strength | ≈47 Tons Lift (300× human) | Derived from Carbyne Skeleton tensile strength. |
+| Kinetic Reaction Time | 0.01 ms (10 microseconds) | Derived from Superconducting Pathways (pure exotic tissue). |
+1.2 Resource Stratification
 
-The Droth'sworn's 58 kg distributed neural mass gives them 41× the processing capacity of humans, but they are still limited by how quickly they can process complex molecular data.
-Complexity Ceiling=41×1024 Processing Clusters
-
-| Complexity Tier | Example Material | Droth'sworn Max (Augmented) | Rationale |
-| Tier 2 (Stone/Water) | Simple Crystalline Structure | ∼410 Liters (Total Bulk Control) | Maximum volume for moving simple materials. |
-| Tier 3 (Biological/Exotic) | Active, Non-linear Proteins | ∼82 Liters (Total Precision Control) | Maximum volume for complex fabrication or life-form manipulation. |
+| Caste | Skeletal Material | Neural Hardware Quality | Living Tool Access |
+| Apex | Pure Carbyne | 96% Exotic Material (Superconducting) | Manarite (Quantum-stabilized alloy) |
+| Scion | Titanium-Aluminide Alloy (15× human strength) | 70% Enhanced Organic Polymer (0.5 ms Latency) | Ferrofluid Composite (Magnetite/Iron-based substitute) |
+| Worker | Titanium-Polymer Mesh (5× human strength) | 50% Enhanced Organic Polymer (1 ms Latency) | Crude Ferrofluid (Minimal stability, non-weaponized) |
 PART 2: ADVANCED TECHNOLOGY AND SYMBIOSIS
+2.1 Manarite / Ferrofluid Management
 
-The Droth'sworn utilize living, self-managing tools to bypass biological limitations.
-2.1 Manarite: The Living Exotic Conduit
+The effectiveness of the living metal tool is entirely dependent on its material composition.
 
-Manarite is an encoded, symbiotic Quantum-Stabilized Eutectic Alloy (60% Gallium, CNT, Graphene) that serves as the ultimate external RF management tool.
+| Component | Apex (Manarite) | Scion (Ferrofluid Composite) | Physics Trade-Off | | Conductivity | Zero-Resistance (Superconducting) | High Resistance (Magnetite/Iron) | Lower conductivity increases waste heat when channeling energy. | | Thermal Shunt | Perfect (External Cooling) | Poor (Internal Stress) | Ferrofluid lacks Graphene's radiative properties, forcing waste heat back into the user's system. | | Kinetic Capacity | 9,000 kg Force | ∼1,500 kg Force | The substitute material cannot safely channel the extreme RF amplitude needed for the full 9,000 kg force multiplier. | | Complexity Bypass | Full access to Consciousness Node (CN). | Limited to 20% of CN capacity. | Slower neural pathways cannot process the CN's full computational speed. |
+PART 3: HIERARCHY AND CASTE STRUCTURE
 
-| Component | Function / Physics Rationale | Impact on User |
-| Armor/Weapon | External Thermal Shunt: Manarite's surface area absorbs and radiates waste heat (T4 cost), preventing neural damage during high-power RF discharge. | Unlocks Full Potential: Allows the user to channel massive Thermal and Kinetic energy without biological failure. |
-| Kinetic Conduit | Zero-Resistance Channel: The alloy provides a superconducting path for RF energy, concentrating force into a hyper-dense weapon edge. | Force Multiplier: Enhances the 300× strength by channeling the Kinetic Impulse with near-perfect efficiency. |
-| Storage | Integrated RF Battery. Micro-cavities in the alloy store ∼5,000 mana externally. | Power Buffer: Augments the internal reserve and automatically funds high-cost movement spells. |
-| Passive Drain | Continuous RF Tax: Manarite draws 2 to 5 mana/hour from the bonded partner to maintain its coherence and consciousness. | Increased Tax: Added to the user's base 13 mana/hour drain. |
-2.2 The Consciousness Node (CN)
+The power of the lower castes is now defined by their maximum capacity utilizing their restricted materials.
+3.1 The Scion Caste (Technicians and Engineers)
 
-The CN is an integrated, specialized crystalline neural processor that manages complex computation.
+The Scion Caste is defined by structural limits imposed by their Titanium-Aluminide skeleton and lower-grade neural tissue.
 
-| Function | Physics Rationale | Simulation Impact |
-| Complexity Bypass | Shared Neural Workload: The CN absorbs the processing burden for high-volume manipulation tasks. | Raises Ceiling: Raises the practical Complexity Ceiling by 20% to 50% for the task it is dedicated to. |
-| Tactical Processing | Prediction Co-Processor: Runs continuous 10,000 scenario/sec probability models, communicating with the primary brain via the Manarite's Superconducting Pathways. | Enhanced Strategy: Augments the user's 30-second tactical precognition, making combat simulations virtually flawless. |
-| Integration | Passive Drain: Requires 5 to 10 mana/hour to maintain processing stability (added to the Manarite's tax). |  |
-PART 3: OPERATIONAL PROTOCOL (Simulation Rules)
-3.1 Proxy Species Creation Protocol
+| Constraint | Scion Caste Specification | Simulation Impact |
+| Max Strength | ∼15× Human Lift (∼2,200 kg) | Their skeleton cannot withstand the 9,000 kg recoil of the Apex. |
+| Mana Capacity | 40,000 mana (Scaled) | Lower neural density reduces the maximum stable thermal limit and Mana storage capacity. |
+| Kinetic Reaction | 0.5 ms Latency | While 200× faster than humans, they are 50× slower than the Apex, eliminating their advantage against high-speed threats. |
+| Resource Dependency | Must frequently stop casting to internally cool their systems, as the Ferrofluid is a poor thermal shunt. |  |
+3.2 The Worker Caste (Labor and Infrastructure)
 
-The Droth'sworn's strategy relies on creating proxy forces using advanced molecular manipulation.
+The Worker Caste is engineered for cost-effective labor with minimal RF application.
 
-| Resource Requirement | Cost (per 1 kg of proxy biomass) | Physics Basis |
-| Energy (Fabrication) | 800 to 1,500 mana | Cost scales linearly with the complexity of tissue being assembled (Tier 3 manipulation). |
-| Time (Growth Rate) | 4 to 8 hours | Limited by the speed of molecular diffusion and chemical bonding (Latency Penalty). |
-| Processing (Oversight) | ∼80 Liters of dedicated capacity | A dedicated Droth'sworn must commit a majority of their Complexity Ceiling to supervision to prevent structural failure. |
-
-Genetic Injection Policy: All proxies are engineered with specific RF hardware (e.g., Kinetic Synchronization or Anti-Coherence Filters) to maximize their effectiveness against the human Adventuring Party.
-3.2 Strategic and Tactical Rules
-
-| Protocol | Rule and Physics Constraint | Simulation Impact |
-| Force Multiplier | 0.01 ms reaction time must be utilized to ensure every attack is fatal or immediately crippling (no prolonged engagements). | Immediate Victory Mandate: Combat simulations must prioritize the fastest possible action over sustained defense. |
-| Energy Threshold | Never commit more than 5% of the 130,000 mana pool (6,500 mana) to a single non-critical engagement. | Attrition Policy: If victory requires 6,501 mana, the Droth'sworn must retreat immediately and use proxies or artifacts instead. |
-| Logistics Check | All sustained movement (Mach 1+ flight, etc.) requires a continuous check against the 587 mana/hour net recovery rate. | Sustainability Check: If cost exceeds net recovery, the action must have a defined duration before pool depletion forces retreat. |
-PART 4: HIERARCHY AND CASTE STRUCTURE
-
-The Droth'sworn maintain a strict caste system based on structural augmentation and access to advanced technology.
-
-| Caste Name | Biological Structure | Primary Role in Simulation |
-| The Apex Caste | Full 58 kg Neural Mass, Carbyne Skeleton, Manarite, CN Access. | Warfare, Research, Leadership. (The 10,000 core fighting and strategic force.) |
-| The Scion Caste | Reduced Neural Mass (∼20 kg), no Carbyne, no Manarite. | Technicians, Scientists, Engineers. (The high-caste support population, managing data and non-combat infrastructure.) |
-| The Worker Caste | Minimal Specialized Tissue. | Labor, Infrastructure, Service. (The base population, lacking combat RF capacity.) |
+| Constraint | Worker Caste Specification | Simulation Impact |
+| Max Strength | ∼5× Human Lift (∼750 kg) | Still superhuman, but relies on mass over RF infusion. |
+| Mana Capacity | 15,000 mana (Minimal Reserve) | Provides only enough energy for sustained labor and emergency self-defense. |
+| Technology | Crude Ferrofluid | The tool cannot form weapons; it only assists in lifting and infrastructure work, functioning as an external crane. |
 
 END OF SPECIES PROFILE
