@@ -1,92 +1,79 @@
-HUMAN BIOLOGY: PHYSIOLOGICAL CONSTRAINTS (V4.0)
-The RF-Evolved Human and the Limits of Organic Power
+HUMAN BIOLOGY: PHYSIOLOGICAL CONSTRAINTS (V5.0)
+The RF-Evolved Human: Constraints, Lineages, and Hardware
 
-This document establishes the universal biological structure and energy constraints of the RF-Evolved Human (Homo sapiens), defining the physiological baseline for all populations in the Age of Might.
-Part 1: Universal Energy Budget and Constraints
+This document defines the universal biological structure and constraints of the RF-Evolved Human (Homo sapiens), establishing the physiological reality for all populations in the Age of Might.
+Part 1: Universal Constraints and Energy Budget
 
-The entire human RF system is limited by the thermodynamic and chemical capacity of the neural and metabolic tissue.
-1.1 Mana Capacity and Throughput Limits
+All human performance is constrained by the thermodynamic and chemical limits of the RF system, using the bedrock conversion of 1 mana≡3,000 Joules.
+1.1 Mana Pool, Income, and Tax
 
-The capacity is a fixed limit based on maximum safe ATP throughput and neural tissue thermal tolerance.
+The RF system operates with a high-volume income and a mandatory maintenance tax.
 
 |
 
 | Constraint | Value | Physics Derivation |
-| RF Unit Conversion | 1 mana≡3,000 Joules | Macroscopic grounding: 300 kg×9.8 m/s2×1 m≈1 mana |
-| Mana Capacity (EMAX​) | 100 mana units | The Biological Soft Cap: Maximum safe immediate ATP reserve (∼300 kJ) before metabolic failure. |
-| Max Frequency Limit | 1015 Hz | The physical thermal limit of carbon-based neural tissue. |
-1.2 Basal Metabolic Income and RF Tax
+| Mana Capacity (EMAX​) | 100 mana units | The Biological Soft Cap: Maximum safe ATP throughput (∼300 kJ). |
+| BMR Income (Food Metabolism) | +104.6 mana/hour | Constant influx from food conversion (∼1,800 kcal/day). |
+| Passive Drain (RF Tax) | −1.0 mana/hour | Fixed evolutionary cost to maintain the RF defense field. |
+1.2 The Universal Complexity Ceiling (Limit of Scale)
 
-The body's energy consumption is managed by the Adaptive Neural Management (ANM) system, which balances the constant inflow of energy from food against the required operational costs.
-
-| Energy Flow | Rate (Mana/hour) | Function / Policy |
-| BMR Income (Food Metabolism) | +104.6 mana/hour | Constant influx from calorie conversion (∼1,800 kcal/day). |
-| Passive Drain (RF Tax) | −1.0 mana/hour | Fixed Evolutionary Cost: Mandatory energy required to maintain the RF structures and defense field at baseline. |
-| Optimal Recovery Rate | ∼10 units/hour | The limited rate at which the Mana Pool can safely absorb the BMR surplus without inducing thermal damage (the charging speed limit). |
-
-Note on ANM: This system automatically reduces the Passive Drain to 0.2 to 0.5 mana/hour during deep rest or predictable low-stress periods (Optimized Idle Mode), conserving resources for the individual.
-Part 2: Evolved Systemic Hardware
-
-8 million years of RF pressure has resulted in the systemic modification of major organs to support energy throughput and stability.
-2.1 The Neural and Kinetic Circuitry
-
-These structures manage RF input, output, and high-speed energy transfer:
-
-| Structure | Location | Physics Function | Universal Impact |
-| Projection Cortex | Prefrontal Cortex | The Transmitter: Generates and amplifies coherent RF output patterns (Source of active casting). | Defines the 100 mana MAX and 1015 Hz frequency limit. |
-| Somatic RF Conduits | Fascia/Tendon Layers | Kinetic Circuitry: High Q-factor protein filaments that act as superconducting pathways, channeling RF energy to muscles at near-light speed. | Enables the 0.2 second muscle reset and is the source of the Momentum Surge. |
-| Core Energy Reservoir | Solar Plexus | The Kinetic Capacitor: Specialized organ that stores and instantaneously discharges rectified RF energy, bypassing neural latency. | Source of the Burst Acceleration advantage and primary buffer for RF energy. |
-2.2 The Circulatory and Filtration System
-
-These organs evolved to manage the extreme metabolic and thermal demands of instantaneous RF use.
-
-| Structure | Location | Physics Function | Universal Impact |
-| Heart (Myocardial Sheath) | Cardiac Muscle | High-Amplitude Pumping: Specialized RF protein sheath allows the heart to withstand the massive internal pressure spikes from instantaneous RF discharge (Kinetic Impulse). | Grants superior resilience against blunt force trauma. |
-| Liver (Hyper-Mitochondrial Filter) | Hepatic Tissue | Instant Waste Clearance: Augmented mitochondrial density clears ATP waste and lactic acid from the bloodstream at an accelerated rate post-mana discharge. | Speeds physical recovery and restores Rectification efficiency. |
-| Blood (Mana-Infused Matrix) | Circulatory System | Hyper-Efficient ATP Delivery: Plasma and cells optimized for rapid oxygen and ATP transfer to neural tissue. | Physical mechanism behind 2x to 3x faster healing. |
-Part 3: Performance, Debilitation, and Limits
-3.1 Universal Performance Baseline
-
-All RF-Evolved Humans possess inherent physical advantages over real-world humans due to systemic RF optimization (Zenith Lineage values are listed for comparison as the practical MAX).
-
-| Performance Metric | Universal Baseline | Zenith Lineage (MAX) | Physics Basis |
-| Max Strength | 1.2x to 1.3x RW max | ∼1.8x RW max | Enhanced ATP coordination via Somatic Conduits. |
-| Healing Rate | 2x to 3x faster than RW | 4x to 5x faster | Optimized ATP mobilization and waste clearance. |
-| Kinetic Reaction | ≈100 ms (Nervous System) | ≈10 ms to 20 ms | RF sensing is 5x to 10x faster than visual/auditory processing. |
-3.2 The Universal Complexity Ceiling (Limit of Control)
-
-The biological limit on the number of stable patterns the neural network can maintain at once.
+The biological limit on the volume of matter any human can precisely track and control at the molecular level, regardless of energy expenditure.
 Complexity Ceiling=1024 RF Processing Clusters
 
-| Complexity Tier | Example Material | Maximum Volume Equivalent (RFMAX​) |
-| Tier 1: Simple (Kinetic) | Air, Steam | 50 to 100 Liters (∼1 kg of air) |
-| Tier 2: Medium (Molecular) | Liquid Water, Stone, Iron | 5 to 10 Liters (∼5 to 10 kg) |
-| Tier 3: High (Biological) | Living Tissue, Complex Proteins | 1 to 2 Liters (∼1 to 2 kg) |
-3.3 Failure and Debilitation System
+| Complexity Tier | Example Material | Maximum Volume Equivalent (Baseline/Zenith) |
+| Tier 1: Simple (Kinetic/Thermal) | Air, Steam, Pure Gas | 50 to 100 Liters (∼1 kg of air) |
+| Tier 2: Medium (Molecular/Phase) | Liquid Water, Stone, Iron | 5 to 10 Liters (∼5 to 10 kg) |
+| Tier 3: High (Biological/Molecular) | Living Tissue, Complex Proteins | 1 to 2 Liters (∼1 to 2 kg) |
+Part 2: Systemic RF Hardware (The Universal Baseline)
 
-Consequences for exceeding limits are systemic and tied to RF hardware failure.
+All humans possess the following structures, granting them universal resilience and capability over real-world humans.
 
-| Failure Mode | Mechanism / Trigger | Manifestation |
-| Coherence Debt | Rapidly channeling 100 mana (or more via Surge). | "The Hummer" Pain: Acute, debilitating pressure in the skull (T4 thermal warning). |
-| Pattern Failure | Exceeding the 1024 Complexity Ceiling. | Backlash/Seizure: Released chaotic RF energy channels back into neural pathways, causing systemic trauma. |
-| Conduits Overload (Zenith) | Pushing the Somatic Conduits beyond safe kinetic throughput. | Acute Localized Pain/Paralysis: Conduits overheat, causing immediate muscle spasms and loss of kinetic advantage (≈1.0 second rest time). |
-| Hardship Atrophy | Chronic malnutrition/stress during formative years. | Permanently Stunted MAX Capacity (50 to 70 units) and suppressed healing rates. |
-Part 4: Universal Technology Integration
+| Structure | Location | Physics Function | Universal Impact |
+| Resonance Nodes (ANM) | Deep Brain | Thermal Rectification: Manages waste heat and accelerates ATP for healing (2x to 3x faster healing). |  |
+| Somatic RF Conduits | Fascia/Tendon Layers | Kinetic Circuitry: Superconducting pathways that deliver RF energy to muscles, enabling 1.2x to 1.3x base strength. |  |
+| Dermal RF Receptor Layer | Skin/Nerve Endings | 360∘ Sensing: A massive detection array feeding data to the Sensory Cortex. |  |
+| Core Energy Reservoir | Solar Plexus | The Kinetic Capacitor: Stores and instantly discharges rectified RF energy. |  |
+Part 3: Genetic Specialization (The Gilded Lineages)
 
-Technology exists to safely bridge the gap between human biological limits and high-cost RF effects. These tools are universally adopted (55%+ knowledge).
+The specialized lineages evolved over 10,000 years by maximizing specific RF structures. These lineages practice selective breeding to maintain their specialization (The Law of Recessive Specialization).
+3.1 The Zenith Lineage (Generator/Warrior)
+
+Optimized for Kinetic Output and Speed. Their structures are hyper-efficient for impulse and recoil management.
+
+| Specialization | Mechanism | Performance Output |
+| Speed/Reaction | Short, highly dense neural pathways. | 10 ms to 20 ms Kinetic Reaction Time. |
+| Kinetic Force | Optimized Somatic Conduits (Zenith only). | 1.5x to 1.8x physical force multiplier (e.g., 900 kg deadlift). |
+| Failure Mode | Conduits Overload: Acute pain and loss of kinetic advantage (1.0 sec recovery lag). |  |
+3.2 The Oracle Lineage (Sensor/Intelligence)
+
+Optimized for RF Perception and Defense. Their structures maximize signal input and interference.
+
+| Specialization | Mechanism | Performance Output |
+| Sensing Range | Largest Sensory Cortex mass. | 500 m to 1 km passive detection range. |
+| Defense | Neural Filter and Shield Generator (Temporal Lobe). | 200 units Active Living Resistance power. |
+| Failure Mode | Sensory Overload: Chaotic RF environments cause severe neural distress if the Neural Filter is breached. |  |
+3.3 The Adamant Lineage (Sustainer/Mender)
+
+Optimized for Metabolic Efficiency and Recovery. Their focus is maintaining long-duration effects and resource management.
+
+| Specialization | Mechanism | Performance Output |
+| Recovery Rate | Hyper-Mitochondrial Core density. | 45 to 55 units/hour recovery rate (Apex). |
+| Efficiency/Endurance | Thermal Buffer Matrix (Superior waste management). | Lowest Passive Drain and highest endurance for sustained low-power spells. |
+| Physics-Based Trade-Off | Increased Neural Latency: Large Resonance Nodes occupy space, creating longer, more circuitous neural pathways for signal transfer. | Slowest Reaction Time (∼150 ms) and longest casting time among Gilded Lineages. |
+Part 4: Technology and Failure Policy
+4.1 Universal Technology Integration (55%+ Adoption)
 
 | Technology | RF Structure Enhanced | Physics Function |
-| Ambient Mana Accumulator (AMA) | Core Energy Reservoir | External Reserve Battery: Uses high Q-factor crystals to passively collect diffuse ambient RF (slow charge ∼0.5 mana/hour), bypassing the 100 mana limit via instant discharge. |
-| The Resonance Splint | Resonance Nodes | Healing Pattern Stabilizer: External crystalline structures maintain the cellular repair pattern, reducing the energy cost of healing by 40% to 60% and speeding recovery. |
-| The Rectification Ward | Resonance Nodes / Sensory Cortex | Tax Reduction: Simple geometric patterns applied to resting areas stabilize local RF noise, reducing the Passive Drain to 0.2 mana/hour and conserving resources. |
-| Kinetic Bracing Tool | Somatic RF Conduits | Recoil Dampener: Tools designed to spread the massive kinetic recoil of an RF discharge across the core structure, preventing physical injury during heavy lifting or strikes. |
-Part 5: Genetic Specialization (The Lineages)
+| Ambient Mana Accumulator (AMA) | Core Energy Reservoir | External Reserve Battery: Crystal storage bypasses the 100 mana soft cap via instant discharge (∼0.5 mana/hour charge rate). |
+| The Resonance Splint | Resonance Nodes | Healing Pattern Stabilizer: Reduces the RF energy cost of healing by 40% to 60% by providing structural pattern support. |
+| The Rectification Ward | Resonance Nodes / Sensory Cortex | Tax Reduction: Stabilizes local RF noise during rest, reducing the Passive Drain to 0.2 mana/hour. |
+| Kinetic Bracing Tool | Somatic RF Conduits | Recoil Dampener: Spreads the massive kinetic recoil of an RF discharge across the user's core structure. |
+4.2 Failure and Debilitation System
 
-The specialized RF hardware of the Gilded Lineages is the result of 10,000 years of selective breeding, creating predictable aristocratic archetypes defined by their RF focus.
+Consequences are systemic and cannot be ignored by willpower alone.
 
-| Lineage | Archetype Focus | Dominant Structure | Primary Benefit |
-| Zenith | Kinetic (Warrior) | Projection Cortex / Somatic Conduits | 10 ms Reaction Time and 0.2 sec Swing Recovery. Optimized for physical offense. |
-| Architect | Throughput (Caster) | Projection Cortex / Thermal Shunt | 45 units/hour Recovery Rate and 15 L Complexity Ceiling. Optimized for sustained high-cost magic. |
-| Oracle | Sensing (Spy/Advisor) | Sensory Cortex / Neural Filter | 1 km Sensing Range and Maximum Living Resistance (200 units). Optimized for defense and intelligence. |
-
-This concludes the complete physiological blueprint for the RF-Evolved Human.
+| Failure Mode | Mechanism / Trigger | Consequence |
+| Coherence Debt | Exceeding the neural thermal limit by rapid energy discharge. | "The Hummer" Pain: Acute pressure in the skull, forcing 6 to 8 hours of mandatory deep sleep to reset. |
+| Conduits Overload (Zenith) | Pushing the Somatic Conduits beyond safe kinetic throughput. | Loss of Advantage: Temporary paralysis/spasms, reversing their recovery rate to the slow human baseline (≈1.0 second lag). |
+| Pattern Failure | Exceeding the 1024 Complexity Ceiling. | Backlash/Seizure: Released chaotic RF energy channels back into the neural pathways, causing systemic trauma. |
+| Hardship Atrophy | Chronic malnutrition/stress during formative years. | Permanently Stunted Capacity (50 to 70 units) and suppressed healing/endurance rates. |
