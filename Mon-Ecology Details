@@ -1,7 +1,7 @@
-MONSTER ECOLOGY & BEHAVIORAL PROFILES (R-D Ranks)
+MONSTER ECOLOGY & BEHAVIORAL PROFILES (R-S Ranks)
 Field Manual for Applied RF-Ecology
 
-This document provides necessary tactical intelligence for the Adventuring Party, detailing the biological, behavioral, and environmental characteristics of core monster threats. This supplements the R.E.I. metrics defined in the Combat Profiles.
+This document provides necessary tactical intelligence for the Adventuring Party, detailing the biological, behavioral, and environmental characteristics of core monster threats across all operational ranks (R through S). This supplements the Required Energy Investment (R.E.I.) metrics defined in the Combat Profiles.
 R-RANK ECOLOGY: ROOKIE THRESHOLD (R.E.I.=5 mana)
 
 R-Rank threats primarily test the Adventurer's Dermal RF Receptor Layer and ability to manage simple kinetics.
@@ -21,11 +21,11 @@ R-Rank threats primarily test the Adventurer's Dermal RF Receptor Layer and abil
 | Behavior | Social Cohesion: Pack hunting is driven by social hierarchy (the Alpha). They are highly vulnerable to the Kinetic Impulse of a low-cost RF burst. |  |
 E-RANK ECOLOGY: ENTRY THRESHOLD (\mathbf{\text{R.E.I.} = 25 \text{ mana})
 
-E-Rank monsters are the first to demand a full, concentrated spell from a single user for a decisive strike, testing the human capacity for focused energy delivery.
+E-Rank monsters are the first to demand a full, concentrated spell from a single user for a decisive strike.
 3. Iron Tusk Boar (Individual Apex)
 
 | Category | Description | Tactical Exploitation |
-| Ecology & Habitat | Massive, solitary charging beast (size of a small bear). Found in dense forests. Hide has evolved to passively absorb low-amplitude ambient RF, increasing the density and giving it blunt force resistance. | Avoidance and Focus: Use agility to avoid the charge and hit the flanks/vulnerable joints where the hide is thinnest. |
+| Ecology & Habitat | Massive, solitary charging beast (size of a small bear). Found in dense forests. Hide has evolved to passively absorb low-amplitude ambient RF, giving it blunt force resistance. | Avoidance and Focus: Use agility to avoid the charge and hit the flanks/vulnerable joints where the hide is thinnest. |
 | Primary Threat | Blunt Force Inertia: The Boar must be destabilized at the molecular level; low-power spells or mundane weapons fail to penetrate its hide. | Thermal Overload: Its dense hide is a poor thermal radiator. A focused Thermal Blast (∼25 mana) causes rapid local thermal overload, forcing the Boar to disengage or collapse. |
 | Behavior | Highly Territorial: Relies on sustained Kinetic Impulse (a charge) as its primary attack. Will press the attack until severely injured or overcome by heat. |  |
 4. Dire Wolf Pack (5 members)
@@ -34,40 +34,40 @@ E-Rank monsters are the first to demand a full, concentrated spell from a single
 | Ecology & Habitat | A true RF-Evolved creature, significantly larger than the Wild Dog. Controls long stretches of wilderness trade routes. Highly intelligent and ambush-focused. | Coherence Break: Requires the Oracle Watch to project a low-cost, chaotic RF pattern to interfere with the pack's synchronization. |
 | Primary Threat | Coordinated Kinetic Attack: The Alpha emits a stable RF signature that synchronizes the movements of all pack members, maximizing kinetic efficiency against a single target. | Isolate the Alpha: The 1 to 2 seconds of confusion created by the coherence fracture allows the team to commit 25 mana into a single, decisive strike on the Alpha to break the pack's command structure. |
 | Behavior | Neural Cohesion: Attack in a precise, synchronized pattern designed to maximize kinetic output. The synchronization is the core threat. |  |
-D-RANK ECOLOGY: DEVELOPED THRESHOLD (R.E.I.=100 mana)
+D-RANK ECOLOGY: DEVELOPED THRESHOLD (\mathbf{\text{R.E.I.} = 100 \text{ mana})
 
-D-Rank threats demand specialized RF output, pushing the Complexity Ceiling and requiring the full MAX output of one Adventurer's Mana pool.
+D-Rank monsters test the limits of Complexity Ceiling and require the full output of one Lineage specialist to neutralize.
 5. Mirthstone Golem (Individual Apex)
 
 | Category | Description | Tactical Exploitation |
 | Ecology & Habitat | A massive, animated geological construct (1,000 kg) found in quarries, ruins, or mountainous regions. Blends into the environment in its low-RF maintenance state. | Destabilization Focus: The Architect Controller must maintain a constant destabilization pattern on the Golem's stabilizing core to create a soft spot. |
-| Primary Threat | Structural Complexity (Tier 2): Its crystalline RF structure shrugs off mundane kinetic force. Only molecular destabilization will inflict damage. | Targeted Breach: Once the 100 mana molecular destabilization threshold is reached, the Zenith Breaker must deliver a fatal kinetic strike into the resulting soft spot before the Golem can reset its RF pattern. |
+| Primary Threat | Structural Complexity (Tier 2): Its crystalline RF structure shrugs off mundane kinetic force. Only molecular destabilization will inflict damage. | Complexity Ceiling Test: Requires the Architect Controller to spend 100 mana to maintain the 10 liters molecular destabilization threshold long enough for the Zenith Breaker to land the final kinetic blow. |
 | Behavior | Kinetic Strategy: Attacks via slow, relentless kinetic force, relying on its Tier 2 structural stability. Spends most of its time in an "Optimized Idle" (low-RF maintenance) mode. |  |
 6. Rock Scuttlers (Pack Threat)
 
 | Category | Description | Tactical Exploitation |
 | Ecology & Habitat | Small, fast, aggressive reptile (∼5 mana/resilience). Low complexity allows for rapid reproduction and massive swarm numbers. Found in dry, arid areas or subterranean caves. | Area Denial Test: The Architect must utilize 100 liters (Complexity Ceiling) of RF to neutralize the entire threat volume simultaneously. |
-| Primary Threat | Swarm and Speed: The 20 members overwhelm the human Kinetic Recovery Time and create a critical Complexity Ceiling threat due to the volume of distinct, fast-moving RF signatures. | Maximize AoE Efficiency: Requires careful placement of one high-cost Thermal Blast (Framework 1) that meets the density requirements to kill all members within the zone. |
+| Primary Threat | Swarm and Speed: The 20 members overwhelm the human capacity for concurrent pattern maintenance and create a critical Complexity Ceiling threat. | Maximize AoE Efficiency: Requires careful placement of one high-cost Thermal Blast (Framework 1) that meets the density requirements to kill all members within the zone. |
 | Behavior | Aggressive Swarm: Attacks via overwhelming numbers and speed. The collective R.E.I. is high, forcing the party to commit resources to wide-area defense. |  |
 C-RANK ECOLOGY: CALAMITY THRESHOLD (\mathbf{\text{R.E.I.} = 400 \text{ mana})
 7. Lywrin (Individual Apex)
 
 | Category | Description | Tactical Exploitation |
 | Ecology & Habitat | 3,500 kg Dual-Headed Apex Predator. Found in high-RF zones and ancient ruins. | Unavoidable R.E.I.: The 400 mana regeneration cost must be paid to succeed. The fight is won by energy management, not avoidance. |
-| Primary Threat | Defensive Attrition: Armor self-repairs at 100 mana/per 15% repair. Attacks via supersonic kinetic strikes (150 m/s Swipe) and high-mana elemental breaths. | Thermal Overload: Requires the Controller to execute a coordinated 400 mana Thermal Blast (Internal + AMA) targeted at the Lywrin's soft tissue to overwhelm the regeneration nodes. |
+| Primary Threat | Defensive Attrition: Armor self-repairs at 100 mana/per 15% repair. Attacks via supersonic kinetic strikes (150 m/s Swipe) and high-mana elemental breaths. | Thermal Overload: Requires the Controller to execute a coordinated 400 mana Thermal Blast (Internal + AMA) targeted at the Lywrin's soft tissue to overcome the R.E.I. |
 | Behavior | High Intelligence: Uses Terror/Fear Spells to break the party's Coherence, allowing it to regenerate during the confusion. |  |
 8. Feral Feralis Pack (Pack Threat)
 
 | Category | Description | Tactical Exploitation |
 | Ecology & Habitat | A pack of 10 highly resilient predators, similar in size to the Dire Wolf but possessing internal RF shielding. | Sustained Molecular Disruption: Requires the Adamant Sustainer to commit 100 mana to a high-duration, low-amplitude anti-coherence field to soften the targets. |
-| Primary Threat | Sustained Coherence Breakdown: The Feralis maintain high internal RF fields, requiring complex molecular disruption to inflict significant damage (40 mana/resilience). | Attrition and Focus: The Controller must focus on neutralizing the softened targets one-by-one. The fight is a war of attrition, demanding superior RF endurance. |
+| Primary Threat | Sustained Coherence Breakdown: The Feralis maintain high internal RF fields, making them highly resistant to standard thermal/kinetic damage. | Attrition and Focus: The Controller must provide focused kinetic output to exploit the softening effect. The fight is a war of attrition, demanding superior RF endurance. |
 | Behavior | High Endurance: Will continue the attack even when grievously wounded, relying on its internal RF stability to survive. |  |
 B-RANK ECOLOGY: ELITE THRESHOLD (\mathbf{\text{R.E.I.} = 1,000 \text{ mana})
 9. Vex Weeper (Individual Apex)
 
 | Category | Description | Tactical Exploitation |
 | Ecology & Habitat | Solitary, highly evolved predator with an organic hide that functions as an RF sink. Found in high-RF nexuses and ancient RF construction sites. | Efficiency Drain: Forces the party to commit 2x gross energy (over 2000 mana) just to achieve the 1000 mana R.E.I.. |
-| Primary Threat | RF Absorption: Hide actively absorbs 50% of all incoming RF energy (spells/kinetic infusions), converting it to waste heat. | Kinetic Bypass: The team must identify that raw Kinetic Impulse infusion suffers less absorption than elemental Thermal Blasts, forcing the Zenith to act as the primary damage source. |
+| Primary Threat | RF Absorption: Hide actively absorbs 50% of all incoming RF energy (spells/kinetic infusions). | Kinetic Bypass: The team must identify that raw Kinetic Impulse infusion suffers less absorption than elemental Thermal Blasts, forcing the Zenith to act as the primary damage source. |
 | Behavior | Metabolic Trap: The Weeper prefers to fight sustained battles, allowing its body to convert the absorbed RF energy into immediate strength/speed boosts. |  |
 10. Elder Elemental Swarm (Pack Threat)
 
@@ -79,7 +79,7 @@ A-RANK ECOLOGY: MASTER THRESHOLD (\mathbf{\text{R.E.I.} = 4,000 \text{ mana})
 11. Chronos Shade (Individual Apex)
 
 | Category | Description | Tactical Exploitation |
-| Ecology & Habitat | High-speed predator found in unstable RF nexuses. Its physiology relies on micro-displacements and acceleration near the limits of RF propagation. | Kinetic Lock: Requires physical contact from the Zenith to stabilize the target's RF signature for the Controller to channel the 4000 mana R.E.I.. |
+| Ecology & Habitat | High-speed predator found in unstable RF nexuses. Its physiology relies on micro-displacements and acceleration near the limits of RF propagation (c). | Kinetic Lock: Requires physical contact from the Zenith to stabilize the target's RF signature for the Controller to channel the 4000 mana R.E.I. |
 | Primary Threat | Waveform Displacement: The Shade constantly shifts its RF signature, fracturing any lock-on spell within seconds. Its speed makes it nearly impossible to track and hit. | Neural Speed Test: Forces the Zenith to rely on constant 10 ms reflex and prediction for survival. |
 | Behavior | Ambush Predator: The Shade uses its speed to remain effectively invisible, only engaging when a target's RF system is destabilized. |  |
 12. Ancient Construct Swarm (Pack Threat)
