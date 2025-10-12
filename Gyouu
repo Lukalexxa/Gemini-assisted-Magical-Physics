@@ -13,18 +13,29 @@ Gyouu's unique profile is the result of applying ultimate engineered synthesis t
 | Metric | Value | Physics Rationale |
 | Full Adult Max Cap | 6,000 mana (∼18.0 MJ) | Final projected reserve required to meet Anti-Apex defense demands. |
 | Max Kinetic Output | 18,000 kg force (2.5× Great H-Monster) | Control Limit: Sufficient for mass control, but intentionally weaker than Red Lineage MAX (45,000 kg) to enforce reliance on magic. |
-| Kinetic Reaction Time | 0.00001 ms (10 nano-marks) | Absolute Structural Limit: The fastest physically possible reflex time for her exotic structure, required for Nanosecond Preemption against Mach 1+ threats. |
+| Kinetic Reaction Time | 0.00001 ms (10 nanoseconds) | Absolute Structural Limit: The fastest physically possible reflex time for her exotic structure, required for Nanosecond Preemption against Mach 1+ threats. |
 | Structural Repair Efficiency | MAX 32× RW Baseline | Fabrication Limit: The maximum structural recovery rate achievable by her specialized engineered tissues and RF allocation protocols. |
-| Processing Latency | 0.0001 ms (100 nano-marks) | CN Integration: External superconducting hardware bypasses the final bottleneck of organic latency. |
+| Processing Latency | 0.0001 ms (100 nanoseconds) | CN Integration: External superconducting hardware bypasses the final bottleneck of organic latency. |
+1.1.1 Droth'sworn Measurement Terminology (Gyouu's Language)
+
+Gyouu's clinical speech utilizes quantifiable, engineered units for internal processing and external communication, replacing ambiguous human terms.
+
+| Gyouu's Terminology | Human Equivalent | Scientific Rationale |
+| Chron-Unit (CU) | 1 Year (Orbital Cycle) | Base unit for age and long-term planning (Chronometry). |
+| Mark (M) | 1 second (s) | Base unit of duration (Derived from Aether Newt genetic timing). |
+| Major Cycle (MC) | 1 hour (3,600 Marks) | Standard term for calculating hourly Mana budget. |
+| Manitemeter (Mm) | 1 meter (m) | Base linear unit for distance and structural measurement. |
+| Mililite (Ml) | 1 milliliter (mL) | Standard volume unit, used for precise fluid measurement. |
+| Managram (Mg) | 1 kilogram (kg) | Base unit for structural mass and kinetic calculation. |
 1.2 Physical Appearance and Transformation Status
 
 Gyouu is currently an 8-year-old child undergoing an incomplete structural transformation, making her functional stats 60% of her adult MAX.
 
-| Metric | Current Value (Age 8) | Adult Projected Value | Droth'sworn Terminology |
-| Height | ≈3 ft 6 in  | ≈5 ft 10 in  | 1.07 Manitemeters |
-| Weight | 72 kg (Dense Mass) | ≈120 kg | 72 Managrams |
-| Mana Capacity (Current) | 480 mana (60% of max) | 6,000 mana | 480 Mana Units |
-| Hair/Eyes/Skin | Purple Hair/Eyes, Dark to Light Purple Skin | Reflects the aesthetic template of the Droth'sworn species. | RF Coloration Code P-14 |
+| Metric | Current Value (Age 8) | Adult Projected Value |
+| Height | ≈3 ft 6 in  | ≈5 ft 10 in  |
+| Weight | 72 kg (Dense Mass) | ≈120 kg |
+| Mana Capacity (Current) | 480 mana (60% of max) | 6,000 mana |
+| Hair/Eyes/Skin | Purple Hair/Eyes, Dark to Light Purple Skin | Reflects the aesthetic template of the Droth'sworn species. |
 1.3 The Latent Memory Archive (DAI)
 
 Gyouu's T-IQ and strategic brilliance are fueled by a massive, compressed database of 40 Elite Expertise Packets (DAI).
