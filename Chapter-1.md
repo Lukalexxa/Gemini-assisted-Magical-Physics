@@ -299,4 +299,74 @@ His fingers closed around hers, a reflex. His breathing regulated.
 She remained in that position for six major cycles, studying the point of contact. His skin: warm, callused from swordwork. Hers: cool, unmarked. A temperature differential of 2.3 Thermal Units.
 
     432,000 Marks since curiosity event. Contact with subject is generating... a new data-state. Not curiosity. Different. Cataloguing.
+# Part VIII: Awakening
+
+Hunger hit Vert like a physical enemy—his stomach had moved past empty into a gnawing agony, a feeling that his own organs had begun digesting themselves.
+
+The world swayed. No—he was swaying. Wood creaked. The scent of salt, tar, and rot filled his lungs. A ship. He was on a ship.
+
+His hands shook so violently he could barely focus. His throat felt like he'd swallowed sand and glass, but the hunger was the worst of it—a desperate, clawing need that made him tremble like an addict.
+
+"Consciousness restored. Good. Performance in preservation scenario: adequate. Immediate nutrient intake is required."
+
+A child sat beside him, watching with eyes that were green—no, blue. Her hair was blonde—no, white. Something kept shifting, as if his vision couldn't properly resolve her image. This wasn't his daughter. His daughter was dead. Had never lived. This was the child from the rubble. The one who spoke like a strangely.
+
+"Nutrients prepared." She produced a bowl of thin gruel—standard refugee rations. "Consumption speed recommendation: gradual. Subject's stomach capacity has diminished by forty-seven percent."
+
+The gruel might have been sawdust and water, but his body reacted like a drowning man finding air—desperate, graceless, purely animal. The first spoonful burned going down, but he didn't care. He had never tasted anything so perfect.
+
+"Decelerate ingestion," she stated, her tone flat. "Probability of nutrient ejection is rising."
+
+He forced himself to slow, though every instinct screamed to devour it all.
+
+"Query protocol," she said, tilting her head. "Designation?"
+
+Between spoonfuls, memories surfaced—fragmented and terrible. "Vert. Vert Vozaprime."
+
+"Acknowledged. Then this unit will be designated: Gyouu Vozaprime."
+
+The words stopped his heart. This strange child, claiming his name. "You can't just—"
+
+"You engaged in a preservation action on this unit's behalf," she interrupted, recalibrating her response. "You have a responsibility to see the outcome to its conclusion." She handed him a cup of water. He drank it too fast, coughed, then drank more.
+
+"Duration of unconsciousness: five days. Journey duration to Ruvian: six additional days. Cover identity established: father-offspring unit, refugee classification. All material possessions: lost."
+
+His stomach cramped. She produced a piece of hard bread and broke off a small portion. "Immerse in liquid prior to consumption. Digestive recovery requires a graduated introduction of solids."
+
+He did as she commanded. It tasted like nothing and everything at once. "Where did you get food?"
+
+"From the nurses. Nutrients were provided based on this unit's performance of acute trauma symptoms." She paused. "Additionally, seventeen silver pieces and a combat blade were acquired through aggressive negotiation with the vessel's merchant captain. Resources are sufficient for the initial survival period."
+
+She'd robbed someone. This child had threatened and robbed a man while he slept.
+
+"What are you?" he asked, his voice a rasp.
+
+"Classification: Great Human. Purpose: Guardian. Current status: defective."
+
+Great Human. The words should have terrified him. He’d heard the stories—monsters that looked like people, slaughterers. But he was too exhausted, too empty, too focused on not vomiting his first meal to process the fear. "Defective how?"
+
+"This unit experienced 0.7 Marks of curiosity regarding your survival. It was an unprecedented investment in a non-critical outcome. A significant deviation from baseline parameters." She tilted her head again, a bird-like gesture of analysis. "Time since curiosity event: 432,047 Marks. No recurrence. Yet the compulsion to maintain your functionality persists. It is inexplicable."
+
+He laughed—a broken, raw sound, but real. "That's not being defective. That's called growth."
+
+"Incorrect. This unit is not capable of growth. Only function or malfunction."
+
+Around them, the other refugees huddled in their misery. Children cried. Adults prayed in a dozen languages. The sick moaned. The dying rattled.
+
+"Rest," Gyouu said, placing her small, cool hand over his scarred one. "Tomorrow, we continue."
+
+Vert's fingers closed around hers—an unconscious gesture—and utter exhaustion pulled him back under. But this time, his stomach wasn't empty. It was a small victory, but it was a victory nonetheless.
+
+Gyouu remained motionless, watching him breathe, counting his heartbeats, memorizing his respiratory patterns.
+
+"Mine," she whispered, testing the word. It was a new variable, a new classification. "Yes. Analysis confirmed. This human: mine."
+
+    Time since curiosity event: 432,240 Marks. The 0.7-Mark anomaly had rewritten eight Chron-Units of operational void. Unacceptable. Unexplainable.
+
+    Undeniable.
+
+    For the first time, Designation Gyouu had acquired something worth keeping. The subsequent operational directive would be to learn why.
+
+# Chapter 2: What We Learn
+
 # 
