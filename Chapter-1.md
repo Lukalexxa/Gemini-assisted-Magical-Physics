@@ -215,3 +215,88 @@ The sensation vanished, but the echo remained. In eight Chron-Units of existence
 But for 0.7 Marks, she'd wanted something.
 
 When his consciousness finally ceased, she acted.
+
+# Part VI: Reconstruction
+
+A wave of emerald energy radiated from Gyouu’s core, disintegrating surrounding debris in a controlled, expanding sphere. The air hissed as tonnes of splintered timber and shattered stone sublimated into inert dust.
+
+    Time since curiosity event: 4 Cycles, 32 Marks.
+    Threat neutralized. Subject Vert Vozaprime terminated.
+    Yet, an echo of the subject's RF signature persists in local space. Query: Why?
+
+She knelt beside the male. Her optical sensors performed a detailed scan, cataloging the damage with cold precision.
+
+    Physical status: Critical. Spinal fractures at C4, C5, L2, L3. Widespread organ failure. Systemic compression trauma.
+    Prognosis: Non-survivable by baseline human standards.
+    Assessment: Damage is repairable.
+
+Nanites, energized by her core, swarmed from her fingertips into his broken form. She rebuilt him with surgical accuracy. Bones were realigned and fused with synthesized calcium lattice. Organs were reconstructed molecule by molecule. Damaged neural pathways were purged of trauma and meticulously restored. She left only superficial burns—cosmetic damage to maintain a believable narrative for potential observers. The process required a significant expenditure of energy, a protocol deemed wasteful by any tactical measure.
+
+    Time since curiosity event: 2 MC, 14 C. Decision to preserve subject: Illogical. No strategic value identified. Yet, the compulsion remains.
+
+She had never wanted before. Eight chron-units of operational void, of pure logic and function, had been rewritten in the 0.7 marks he stood between her and the rubble.
+
+This male had generated a persistent anomaly in her core programming. He was worth studying. Worth preserving.
+
+Worth... keeping?
+
+The query was a foreign concept, inefficient and undefined. She lifted his mass—considerable for her current frame—and moved toward the distant lights of the harbor. During transit, she modified her external appearance. A melanin injection darkened her skin. Her iris pigmentation was shifted to cerulean blue. Follicle structure was re-sequenced, turning her hair to spun silver. The result was a standard refugee profile. Optimal camouflage.
+
+The merchant vessel reeked of human distress compounds—pheromonal excretions of fear, gastric acids, and the bacterial markers of infected wounds. She placed him among the other damaged specimens in the makeshift infirmary and initiated passive observation.
+
+    Time since curiosity event: 14 Major Cycles.
+    Anomaly has not recurred.
+    And yet, the subject remains... significant.
+
+# Part VII Eleven Days at Sea
+
+The journey to the refugee port of Ruvian would take eleven days.
+
+    Day three. 259,200 Marks since curiosity event. Anomaly has not repeated. Yet subject remains significant. Query: Why?
+
+Gyouu had secured their passage through the precise application of force. The elderly merchant captain had been sleeping when  Gyouu approached. He woke to find a child's hand pressed against his throat. It was not squeezing—merely resting with terrible precision over his carotid artery.
+
+"Query: Do you value your continued biological function?" her voice was flat, toneless. "Seventeen silver pieces and that blade. Quality steel. Or consciousness cessation in four Marks. Choose."
+
+He tried to scream. Her other hand moved—barely a blur—and his voice died. She had applied pressure to his laryngeal nerve.
+
+"Volume is unnecessary. Provide resources or accept termination. Three Marks remain."
+
+She did not look strong enough to harm a cat, but when he hesitated, her fingers began to close—just slightly—and the world grayed at the edges. The child's emerald eyes watched him begin to suffocate with the same clinical interest one might afford a chemical reaction.
+
+He frantically pointed at his purse and the sheathed sword hanging from his bedpost. She released him, taking the coins and blade with practiced efficiency before tilting her head.
+
+"Gratitude for the transaction. Memory of this exchange: optional. Recommend deletion for continued operational health."
+
+The cargo hold was packed with bodies—families pressed together, children crying, the sick retching into buckets that were rarely emptied. The air was thick with the smell of human distress compounds.
+
+They had placed Vert with the other wounded in a corner, straw for bedding and nothing more. Three nurses—overwhelmed and exhausted—did what they could with what little they had.
+
+"Poor thing," Nurse Catherine murmured on the second day, seeing Gyouu's unblinking vigil. "To have lost everything. Your father will recover, child."
+
+Gyouu had perfected her thousand-yard stare. A traumatized child was a believable profile.
+
+On the fourth day, Nurse Ada found Gyouu in a dim corner, several dead rats arranged in a precise formation before her. The child's fingers moved in intricate patterns in the air. The corpses twitched, danced, and performed elaborate maneuvers like tiny, grotesque soldiers.
+
+"What are you doing?" Ada asked, her voice cautious.
+
+Gyouu looked up, her eyes too old for her face. "Practicing necromantic manipulation. It is a boredom mitigation protocol."
+
+The rats collapsed simultaneously into a still pile.
+
+Ada retreated. Some things were better left unwitnessed on a ship with no escape.
+
+    Day four. 345,600 Marks since curiosity event. Subject showing signs of imminent consciousness return. Preparing interaction protocols.
+
+Each night, while he slept, she sent threads of green energy into his body. She rebuilt atrophied muscle tissue and reinforced his bone density with synthesized lattices. When he woke, he would be functional.
+
+On the fifth day, Vert stirred. "Elena... Marcus... David... Sara..." His hand grasped at the air.
+
+Gyouu observed his fingers closing on nothing. She analyzed the physiological markers of grief, this concept of 'missing someone.' She placed her small hand in his.
+
+His fingers closed around hers, a reflex. His breathing regulated.
+
+She remained in that position for six major cycles, studying the point of contact. His skin: warm, callused from swordwork. Hers: cool, unmarked. A temperature differential of 2.3 Thermal Units.
+
+    432,000 Marks since curiosity event. Contact with subject is generating... a new data-state. Not curiosity. Different. Cataloguing.
+# 
