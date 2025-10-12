@@ -113,3 +113,49 @@ Some desperate part of him couldn't accept it. He placed the baby back inside El
 He lifted Elena and walked toward Fort Kaelora. The city was burning now—complete consumption, not tactical. The screams carried across the distance. The air felt thick, sick, and whispering. Everywhere Vert looked, the chaos tried to take hold, tempting him toward a horror that made no sense. He shook his head, focusing on the pain in his arms, the only anchor he needed. A healer. He just needed to find a healer.
 
 It didn't matter. Forward was the only direction left.
+
+# Part III: The Weapon's Observation (One Week Earlier)
+
+Designation: Gyouu. Classification: Guardian, Generation Seven. Purpose: Asset neutralization. Current status: Investigating behavioral anomaly.
+
+Fort Kaelora represented significant deviation from baseline human parameters. Behavioral degradation timeline: Initiated 5.7 Chron-Units previous. Systematic cruelty for entertainment. Moral constraints abandoned. Causation: Exogenous Energy Signature detected.
+
+Worth investigating. Perhaps terminating variables would yield data.
+
+She infiltrated using refugee child protocols. Humans saw what they expected: a child, white skin, green eyes.
+
+The orphanage maintained standard behavioral patterns. Immature humans playing, crying, seeking comfort. Specimen "Lily" approached with bonding intent.
+
+"Want to be friends?"
+
+Five years old. Trusting. Termination would require four Marks. Carotid compression. Her instructors had been specific about pressure points in juvenile specimens.
+
+"Affirmative. Friendship parameters accepted," Gyouu responded. Slight modulation error. The specimen did not notice.
+
+Four nights of observation yielded minimal data. Boredom parameters increasing. Perhaps terminating the specimens would generate emotional response in self.
+
+She moved through the dormitory with trained precision. She executed twelve specimens using various methods to test for preference:
+
+    Lily: Unconscious in one mark, terminated in four.
+
+    Thomas who shared food: Cervical dislocation, 2.3 marks.
+
+    Sarah who drew pictures: Cardiac puncture, instantaneous.
+
+    Adam who sang: Suffocation, forty-eight marks to study struggle patterns.
+
+Result: No emotional response detected. No satisfaction. No guilt. No variance from baseline emptiness.
+
+Time since termination of final specimen: 4.38 MC. Still no emotional generation.
+
+She catalogued the blood patterns, body cooling rates, facial expressions at moment of termination. All data. No feeling. Functioning as designed.
+
+The caretaker found her at dawn, sitting among the corpses, taking notes.
+
+"Why?" the woman screamed. "They were children!"
+
+"So am I." Gyouu tilted her head, observing the caretaker's psychological state. "Physiological distress: extreme. Yet your reaction to this unit differs from reaction to terminated specimens. Interesting variance. Please elaborate on emotional distinction."
+
+The caretaker fled. Soldiers arrived within the Major Cycle. She neutralized them with minimal effort. More came. She neutralized those. Eventually they applied combustion to the structure.
+
+She remained inside, testing pain responses as flesh charred. The data proved insignificant.
