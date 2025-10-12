@@ -159,3 +159,59 @@ The caretaker found her at dawn, sitting among the corpses, taking notes.
 The caretaker fled. Soldiers arrived within the Major Cycle. She neutralized them with minimal effort. More came. She neutralized those. Eventually they applied combustion to the structure.
 
 She remained inside, testing pain responses as flesh charred. The data proved insignificant.
+
+# Part IV: Convergence
+
+Fort Kaelora was eating itself alive.
+
+Vert stumbled through streets that had become a nightmare. The baker from that morning—a man who’d smiled while serving bread six months ago—was now dissecting his wife in the street. A father showed his son the proper angle for cutting his own throat. Neighbors killed neighbors for sport.
+
+This wasn’t war. This wasn’t even madness. This was something else, something that shouldn’t exist.
+
+His legs were failing. Elena's weight seemed to double with each step. His daughter's tiny body pressed cold against his chest where he’d tucked her inside his gambeson. But he kept walking. One foot, then another.
+
+He set Elena down gently against a wall, arranged her like she was sleeping, closed her eyes with trembling fingers. His daughter he kept close.
+
+That’s when he saw her.
+
+A child sitting beneath a collapsing building. White as bone, green eyes empty, completely still as death approached. Not trying to run. Not even afraid.
+
+For one heartbeat, his mind slipped. That could be my daughter in eight years. If she’d lived. If there’d been a future.
+
+The ceiling was already falling. No time to think. His body moved on instinct—the same instinct that had made him kill his commander, made him try to save those women, made him hold Elena even though she was already gone.
+
+Save one innocent. Just one.
+
+He dove forward as the structure came down.
+
+# Part V: The First Curiosity
+
+The human male's actions defied logical parameters.
+
+Gyouu calculated force vectors. Termination in 2.4 Marks at current rate of collapse. Acceptable. She determined the most efficient data acquisition method was to test the subject's Structural Limit. Gyouu initiated Telekinesis to reduce the rubble mass by eighty-five percent, achieving the Structural Equilibrium of Vert's Max Force.
+
+Yet he maintained position.
+
+"Tactical value: zero," she stated. "Explain behavior."
+
+Blood emerged from multiple points. Bones fractured in sequence—she counted each break. Organ compression exceeding survivable parameters. Should terminate within Major Cycles according to all models.
+
+Six Major Cycles passed.
+
+"I won’t let anything hurt you," he gasped through blood. "Daddy's here. I've got you."
+
+Misidentification. He'd projected his offspring onto her. Psychological fracture creating false recognition. She should correct his error.
+
+"Please," he whispered, body failing system by system. "Just let me save one. Just one."
+
+And then it happened.
+
+For 0.7 Marks, Gyouu experienced something unprecedented.
+
+Not emotion—she lacked that architecture. But... curiosity. Investment in outcome. She wanted to know if he would succeed. Wanted to see what would happen next.
+
+The sensation vanished, but the echo remained. In eight Chron-Units of existence, she had never cared about any outcome. Success or failure, life or death—all equally meaningless.
+
+But for 0.7 Marks, she'd wanted something.
+
+When his consciousness finally ceased, she acted.
