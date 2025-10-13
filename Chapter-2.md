@@ -1,5 +1,5 @@
-#Chapter 2: What We Learn
-#Part I: The Harbor Gates
+# Chapter 2: What We Learn
+# Part I: The Harbor Gates
 
 The ship vomited its human cargo onto Ruvian's docks in a desperate rush.
 
@@ -32,7 +32,7 @@ The guard's cudgel lowered. His eyes slid away, seeking an easier target. "You�
 "Threat neutralized via psychological pressure," Gyouu noted quietly. "Efficiency rating: optimal."
 
 They passed through the gates into Ruvian proper.
-#Part II: The Struggling City
+# Part II: The Struggling City
 
 Vert had to stop five times before they found lodging. Once to lean against a wall, trying not to vomit. Once to sit on a crate while the world stopped spinning. The third time, the scent of fresh bread from a baker’s stall hit him, and the aroma was a form of physical torture, making his stomach clench so violently he had to double over just to breathe, another two times just trying to wade through the crowds.
 
@@ -72,7 +72,7 @@ The room was on the third floor—cramped, moldy, with two narrow beds that had 
 
     Time since curiosity event: 950,847 Marks. Subject is deteriorating. Maintenance priority: critical.
 
-#Part III: The Baker and the Lesson
+# Part III: The Baker and the Lesson
 
 Gyouu located a bakery two streets over. The olfactory signature was strong; it would draw Vert once she had acquired the bread. The baker—a large human female with flour-dusted hands—regarded her with immediate suspicion.
 
@@ -120,7 +120,7 @@ She processed this for 4.3 Marks. "My linguistic patterns are suboptimal for soc
 
     Time since curiosity event: 951,234 Marks. Subject providing behavioral modification parameters. New directive: Optimal social integration requires suboptimal linguistic precision. Efficiency is secondary to perceived intent. This is a logical contradiction. Logging for future analysis.
 
-#Part IV: The Predator's Hunt
+# Part IV: The Predator's Hunt
 
 They found food eventually—a Gojin merchant selling watery soup and hard bread from a cart. He didn't care who bought from him as long as their silver was real. It was still highway robbery, but Vert ate it like a feast, the first real warmth in his stomach in weeks. A few hours later, once the city's afternoon rhythms had settled, they separated. Vert needed to search for work, though he could barely stand. Gyouu stated she would "observe local behavioral patterns for integration purposes."
 
@@ -137,7 +137,7 @@ Perfect prey.
 The Bowljin made his approach as Vert entered an alley, seeking a shortcut back to the inn.
 
 "Excuse me," the creature said, its voice deceptively helpful. "You look like you need work."
-#Part V: Dissociation
+# Part V: Dissociation
 
 The Bowljin's claws on his chest triggered something older than thought.
 
@@ -209,7 +209,7 @@ The possessiveness was not emotion—her architecture still lacked that capacity
 She tried the smile again. Still wrong. But marginally less wrong than before.
 
 Progress.
-#Part VII: Morning Lessons
+# Part VII: Morning Lessons
 
 Vert woke to find Gyouu sitting on the edge of his bed, watching him with those unblinking eyes.
 
