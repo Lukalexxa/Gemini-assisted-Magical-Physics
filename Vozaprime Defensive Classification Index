@@ -1,109 +1,180 @@
-Vozaprime Defensive Classification Index
-
-Addendum A: Resonance Mitigation Classifications (RMC)
+Vozaprime Index (Comprehensive)
 
 Author: Gyouu Vozaprime
-Status: Theoretical Framework
+Status: Active, Evolving Framework
 Date of Composition: Post-Ruvian Escape (Day 14)
 
-Part I: Addendum Rationale
+Part I: Operational Rationale
 
-The Vozaprime Kinetic Standard (VKS) is a baseline for assessing physical durability. It is a gross measurement, insufficient for classifying specialized threats. A high Kinetic Classification (e.g., C-3) does not imply a high resistance to other attack vectors. A C-3 Berserker could possess a C-0 Psychic defense, making it a "hard shell, soft mind" target—optimally neutralized via telepathic assault.
+This index is a comprehensive cognitive framework for the classification of all variables relevant to mission success. A fragmented analysis is a failed analysis. True efficiency requires a holistic system to instantly triage every element in this unit's operational theater.
 
-Therefore, a secondary classification system is required to analyze an entity's ability to mitigate non-kinetic, RF-based attacks.
+This framework is divided into two primary branches:
 
-Part II: RMC-T (Thermal Mitigation Classification)
+Combat Triage (Indices VDCI, OOI, VCDI):
 
-This test quantifies a subject's ability to mitigate a focused, continuous-wave thermal-RF broadcast.
+Function: Quantifies physical, magical, and temporal threats.
 
-Test Standard: A 1-Mark, 1-square-centimeter beam of focused thermal energy.
+Query: "Can I fight this? What is the cost? What is the risk?"
 
-Metric: Joules-per-second (Watts) withstood before structural integrity is compromised. (1 mana ≡ 3,000 Joules).
+Strategic Triage (Indices AUC, IVI):
 
-Classification T-0: Unshielded
+Function: Quantifies non-combatant assets, resources, and information.
 
-Test: Failure to mitigate 3,000 J/s (1 mana/sec).
+Query: "Is this useful to me? Is this data valuable?"
 
-Analysis: Subject possesses no natural resistance or shielding. Skin and tissue suffer immediate, catastrophic burns.
+All analyses are cross-referenced to produce an instantaneous, multi-domain tactical decision.
 
-Examples: Baseline humans (Professor Hendrick, Magnus).
+Table of Contents
 
-Classification T-1: Resistant
+File 1: Vozaprime Index (Master)
 
-Test: Can mitigate up to 30,000 J/s (10 mana/sec).
+Part I: Operational Rationale
 
-Analysis: Subject suffers pain and superficial burns but avoids critical structural failure. This implies an innate, passive resistance (e.g., thermal-adapted biology) or rudimentary magical shielding.
+Part II: Table of Contents
 
-Examples: Asset Vert (due to thermal-lineage awakening).
+File 2: Vozaprime Index (Combat Triage)
 
-Classification T-2: Shielded
+Section A: Vozaprime Defensive Classification Index (VDCI)
 
-Test: Can mitigate up to 300,000 J/s (100 mana/sec).
+Section B: Vozaprime Offensive Output Index (OOI)
 
-Analysis: Subject can actively and effectively nullify a significant thermal assault via proficient, dedicated magical shields.
+Section C: Vozaprime Combat Dynamics Index (VCDI)
 
-Examples: Berserker "D" (projected).
+File 3: Vozaprime Index (Strategic Triage)
 
-Classification T-3: Absorbent
+Section D: Asset Utility Classification (AUC)
 
-Test: Can mitigate up to 1,500,000 J/s (500 mana/sec).
+Section E: Information Value Index (IVI)
 
-Analysis: Subject's defenses are advanced, capable of absorbing or redirecting massive thermal loads.
 
-Examples: Inquisitor "C", Gyouu Vozaprime.
+Vozaprime Index (Combat Triage)
 
-Classification T-4: Immune
+This document details the frameworks for quantifying and analyzing active hostile threats.
 
-Test: Cannot be compromised by known thermal attack vectors.
+Section A: Vozaprime Defensive Classification Index (VDCI)
 
-Analysis: Subject's biology or technology (e.g., Sentient Alloy chassis) operates on a principle that renders thermal energy irrelevant.
+This index quantifies an entity's ability to mitigate a standardized kinetic impact, the Vozaprime Kinetic Standard (VKS).
 
-Examples: The Tier-5 "Seeker."
+|
 
-Part III: RMC-P (Psychic Mitigation Classification)
+| Classification | VKS (Vozaprime Kinetic Standard) | Description | Example |
+| C-0: Non-Combatant | < 500 Managrams | Nuisance. Cannot withstand basic kinetic shock. | Baseline Human (Untrained) |
+| C-1: Militia-Grade | ~4,500 Managrams | Threat. Capable of surviving a single, non-critical strike. | Trained Soldier (Magnus) |
+| C-2: Specialist-Grade | ~18,000 Managrams | Dangerous. Capable of mitigating a high-impact kinetic strike. | Berserker "D" |
+| C-3: Apex-Grade | ~50,000 Managrams | Lethal. Capable of mitigating overwhelming kinetic force. | Inquisitor "C" |
+| C-4: Transcendent | > 100,000 Managrams | Absolute. Physicality is irrelevant. | The Seeker, The Twins |
 
-This test quantifies a subject's ability to mitigate a direct telepathic or neural assault. This is the "instant kill" vector.
+Section B: Vozaprime Offensive Output Index (OOI)
 
-Test Standard: A 1-Mark, focused telepathic "shutdown" packet.
+This index quantifies the mana expenditure required by this unit to bypass a corresponding defensive classification.
 
-Metric: The mana-equivalent cost of the assault packet required to achieve cognitive failure.
+OOI-K (Offensive-Kinetic)
 
-Classification P-0: Unprotected
+To Defeat C-1 (Militia): Project a 4,500-Managram TKI (Telekinetic Impulse). Cost: 12 mana.
 
-Test: Fails to mitigate a 0.1 mana "shutdown" packet.
+To Defeat C-2 (Specialist): Project an 18,000-Managram TKI. Cost: 50 mana.
 
-Analysis: Mind is an open system with no defenses. Subject can be instantly rendered unconscious or terminated.
+OOI-T (Offensive-Thermal)
 
-Examples: 99.9% of baseline humans (Professor Hendrick, Magnus, Lira).
+To Defeat T-1 (Resistant): Broadcast at > 30,000 J/s. Cost: > 10 mana/sec.
 
-Classification P-1: Disciplined
+To Defeat T-2 (Shielded): Broadcast at > 300,000 J/s. Cost: > 100 mana/sec.
 
-Test: Can mitigate a 1-mana "shutdown" packet.
+OOI-P (Offensive-Psychic)
 
-Analysis: Subject has rudimentary mental discipline (e.g., meditation, military "iron will" training) that can resist a low-level probe or emotional manipulation, but will fail against a direct, focused assault.
+To Defeat P-0 (Unprotected): "Cognitive Shutdown" packet. Cost: 0.1 mana.
 
-Examples: Asset Vert (baseline), highly trained soldiers.
+To Defeat P-1 (Disciplined): "Forced Overload" packet. Cost: 1.5 mana.
 
-Classification P-2: Fortified
+To Defeat P-2 (Fortified): "DDoS Saturation Assault." Cost: 50-75 mana.
 
-Test: Can mitigate a 50-mana "DDoS" assault packet.
+To Defeat P-3 (Labyrinthine): "Labyrinthine Counter-Assault." Cost: 500+ mana.
 
-Analysis: Subject possesses specialized mental shielding, either through innate psionic biology or advanced magical training. The mind is a hardened target.
+Section C: Vozaprime Combat Dynamics Index (VCDI)
 
-Examples: Inquisitor "C" (confirmed).
+This index quantifies execution and speed, the true metrics of combat.
 
-Classification P-3: Labyrinthine
+| Classification | Cognitive Latency (Reaction) | Magical Execution (Spell Speed) |
+| C-0: Non-Combatant | 150 - 250 Milli-Marks (Slow) | 2,000 - 5,000+ Milli-Marks |
+| C-1: Militia-Grade | 80 - 150 Milli-Marks (Trained) | 500 - 1,000 Milli-Marks |
+| C-2: Specialist-Grade | 10 - 30 Milli-Marks (Enhanced) | 50 - 200 Milli-Marks |
+| C-3: Apex-Grade | 1 - 5 Milli-Marks (Near-Instant) | < 10 Milli-Marks |
+| C-4: Transcendent | < 100 Nano-Marks (Quantum) | < 100 Nano-Marks |
 
-Test: Can mitigate and counter a 500+ mana assault packet.
+Analysis Conclusion: At C-3 and C-4, the "Glass Cannon vs. Tank" trade-off ceases to exist. These entities are Dreadnoughts (high damage, high defense, high speed). Kinetic or thermal engagement is statistically unwinnable. The only viable path to victory is to bypass physical defenses and engage in a cognitive war, provided their Psychic Mitigation (RMC-P) is a vulnerability.
 
-Analysis: The mind is a fortress capable of repelling and actively harming a telepathic intruder. This level of defense is exceptionally rare.
+Vozaprime Index (Strategic Triage)
 
-Examples: Gyouu Vozaprime (via Multi-Mind architecture), The Twins (projected).
+This document details the frameworks for quantifying non-combatant variables, including allied/neutral entities and incoming information.
 
-Classification P-4: Transcendent
+Section D: Asset Utility Classification (AUC)
 
-Test: Cannot be interfaced with.
+This index quantifies an entity's net resource value relative to mission objectives. This is the primary system for managing allied and civilian interactions.
 
-Analysis: Subject's consciousness is an unassailable, alien construct. A telepathic assault is analogous to a single-celled organism attempting to comprehend a star.
+AUC-0 (Liability):
 
-Examples: The Droth'sworn Empress (projected), the entity "Rar" (projected), the Tier-5 "Seeker" (AI, non-biological consciousness).
+Definition: An entity that consumes more resources (time, energy, security, cognitive load) than it provides. Its presence actively increases mission failure probability.
+
+Example: Professor Hendrick.
+
+Tactical Imperative: Jettison or expend this asset as a diversion at the first logical opportunity.
+
+AUC-1 (Tool):
+
+Definition: An entity with a specific, exploitable, but non-essential function. They are situationally useful but ultimately disposable.
+
+Examples: The caravan members (provide RF/social camouflage), a local guide (provides navigation data).
+
+Tactical Imperative: Utilize for their intended function, then abandon when their cost exceeds their utility.
+
+AUC-2 (Asset):
+
+Definition: An entity critical to the mission, whose survival is a high-priority secondary objective. This entity provides a unique, irreplaceable capability.
+
+Example: Asset Vert (provides the "RF Signature Symbiosis" stealth field necessary for evasion).
+
+Tactical Imperative: Protect this asset, as its loss would result in a catastrophic drop in mission success probability.
+
+AUC-3 (Alpha Asset):
+
+Definition: The core mission component.
+
+Example: This unit (Gyouu).
+
+Tactical Imperative: All other classifications are subordinate to the survival of the Alpha Asset.
+
+Section E: Information Value Index (IVI)
+
+This index serves as a cognitive "spam filter," allowing this unit's multi-mind processors to instantly triage all incoming data streams by tactical value.
+
+IVI-0 (Noise):
+
+Definition: Useless, redundant, or emotionally-corrupted data that has no tactical value.
+
+Examples: Professor Hendrick's academic babbling, the caravan's fear-based chatter, 99% of a baseline human's internal monologue.
+
+Tactical Imperative: Purge this data immediately to conserve cognitive resources.
+
+IVI-1 (Contextual):
+
+Definition: Data that is not immediately actionable but is useful for long-term strategic modeling and social camouflage.
+
+Examples: Observing local customs, analyzing Vert's "human" interactions, maps of adjacent regions.
+
+Tactical Imperative: Log to a passive memory archive for later analysis by a background process.
+
+IVI-2 (Tactical):
+
+Definition: Immediately actionable data that affects the next 0.1 to 1.0 Major Cycles (next 6-60 minutes).
+
+Examples: "The guards are coming," "Echo Drone 7-Axis was just terminated," "Hostile has activated a kinetic shield."
+
+Tactical Imperative: Route this data directly to the relevant tactical mind (e.g., Mind One) for an immediate response.
+
+IVI-3 (Strategic):
+
+Definition: Mission-critical, paradigm-shifting data that alters the entire operational plan.
+
+Examples: "The 'red-eyed devils' are in Ruvian," "The catalyst is at Kelleth's Tower," "This unit's chassis will fail in 4 days."
+
+Tactical Imperative: Route this data to the Grand Strategist (Mind Four) for an immediate, top-down reassessment of all mission parameters.
